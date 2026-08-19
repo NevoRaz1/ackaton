@@ -1,41 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0d592d7-94bf-4399-ab6b-186b42d51a54" name="Changes" comment="" />
+    <list default="true" id="d0d592d7-94bf-4399-ab6b-186b42d51a54" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="13" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;levbergman433-dev&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NevoRaz1/ackaton.git&quot;,
+    &quot;accountId&quot;: &quot;30986da5-d83e-486d-ba73-0ddcd9d5c11c&quot;
+  }
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000792179566174" />
+      <entry key="S2" value="1.5801311093997286" />
+      <entry key="S5" value="5.970427151068746" />
+      <entry key="S10" value="12.068746810750346" />
+      <entry key="S30" value="21.82788645583607" />
+      <entry key="S60" value="34.02572560564309" />
+      <entry key="M2" value="58.719672407508185" />
+      <entry key="M5" value="109.07821591043528" />
+      <entry key="M10" value="156.67261846394436" />
+      <entry key="M15" value="189.06731202020825" />
+      <entry key="M30" value="245.54948711697267" />
+      <entry key="H1" value="290.9749069639831" />
+      <entry key="H2" value="320.4928592070843" />
+      <entry key="H4" value="337.4157644074234" />
+      <entry key="D1" value="352.7795274210125" />
+      <entry key="W1" value="355.53681135507776" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.3046300984954114E-76" />
+      <entry key="S2" value="1.232112340498344E-19" />
+      <entry key="S5" value="2.730612807905389E-8" />
+      <entry key="S10" value="1.6524565979384852E-4" />
+      <entry key="S30" value="0.054892365174241696" />
+      <entry key="S60" value="0.23838908672286277" />
+      <entry key="M2" value="0.5482992666173591" />
+      <entry key="M5" value="1.0864160329657417" />
+      <entry key="M10" value="1.5111609676053575" />
+      <entry key="M15" value="1.7689905546077742" />
+      <entry key="M30" value="2.195021105683936" />
+      <entry key="H1" value="2.5285580976007895" />
+      <entry key="H2" value="2.743191396587907" />
+      <entry key="H4" value="2.8657443973590535" />
+      <entry key="D1" value="2.976756806313602" />
+      <entry key="W1" value="2.996657553403266" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.815705922674011E-7" />
+      <entry key="MS500" value="0.04904677854633926" />
+      <entry key="S2" value="1.048777672487818" />
+      <entry key="S5" value="5.704032144063486" />
+      <entry key="S10" value="11.9221812620637" />
+      <entry key="S30" value="21.824619303129452" />
+      <entry key="S60" value="34.2233558521774" />
+      <entry key="M2" value="59.235598972403665" />
+      <entry key="M5" value="110.14113479918285" />
+      <entry key="M10" value="158.16594304365165" />
+      <entry key="M15" value="190.82127834993358" />
+      <entry key="M30" value="247.73412319660704" />
+      <entry key="H1" value="293.4970935845229" />
+      <entry key="H2" value="323.23247981559865" />
+      <entry key="H4" value="340.27961287184405" />
+      <entry key="D1" value="355.7559515034285" />
+      <entry key="W1" value="358.5334209473536" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3I7m1TKW1uNHMF33V0623SyrhLZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.test.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.app.executor": "Run",
+    "Python.test_main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "music__logic",
     "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/Users/tvmai/PycharmProjects/Hackathon",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tvmai\PycharmProjects\Hackathon" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -51,11 +159,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1787123766025</updated>
-      <workItem from="1787123767060" duration="1000" />
+      <workItem from="1787123767060" duration="255000" />
+      <workItem from="1787124071626" duration="5471000" />
+      <workItem from="1787131714679" duration="7602000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hackathon$app.coverage" NAME="app Coverage Results" MODIFIED="1787143380696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Hackathon$test_main.coverage" NAME="test_main Coverage Results" MODIFIED="1787126405058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/html-pages" />
   </component>
 </project>
