@@ -8,7 +8,7 @@ class Student:
         self.need_help = False
         self.current_lesson = None
 
-    def join_lesson(self, lesson: Lesson) -> bool:
+    def join_lesson(self, lesson: Lesson):
         if self.lesson_code == lesson.lesson_code:
             self.current_lesson = lesson
             lesson.add_student(self)
@@ -16,7 +16,7 @@ class Student:
         return False
 
     def get_links(self):
-        if self.current_lesson:
+        if self.current_lesson:#אם יש ערכים ברשימה
             return self.current_lesson.lesson_appendices
         return []
 
