@@ -2,7 +2,7 @@ from Lesson import Lesson
 
 
 class Student:
-    def __init__(self, name: str, lesson_code: int):
+    def __init__(self, name: str, lesson_code):
         self.name = name
         self.lesson_code = lesson_code
         self.need_help = False
