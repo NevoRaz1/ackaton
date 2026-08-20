@@ -1,6 +1,6 @@
 import streamlit as st
 st.set_page_config(
-    page_title="ממשק של חברת אקסטרא",
+    page_title="ממשק של כיתת  אקסטרא",
     page_icon="67",
     layout="centered")
 st.markdown("""
@@ -9,7 +9,6 @@ st.markdown("""
         direction: rtl;
         text-align: right;
     }
-
     label, .stTextInput, .stSelectbox {
         direction: rtl;
         text-align: right;
@@ -64,11 +63,13 @@ if st.session_state.selected_option == "option1":
     st.success("בחרת באפשרות הראשונה!")
     with st.form("create_lesson_form"):
         st.markdown("<h3 style='text-align: center;'>יצירת שיעור</h3>", unsafe_allow_html=True)
-        teacher_name = st.text_input("שם המורה ")
-        lesson_name = st.text_input("שם השיעור")
+        teacher_name = st.text_input("שם המורה")
+        password = st.text_input("סיסמא", type="password")
+        lesson_name = st.text_input("שם שיעור")
         lesson_code = st.text_input("קוד שיעור ")
         duration = st.text_input("משך השיעור")
-        password = st.text_input("סיסמה ", type="password")
+        nispah = st.text_input("נספחים")
+        
         submitted = st.form_submit_button("צור שיעור")
         if submitted:
             if not teacher_name or not lesson_code or not duration or not password:
