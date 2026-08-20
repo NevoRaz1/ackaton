@@ -1,7 +1,7 @@
 
 
 class Lesson:
-    def __init__(self,teacher, lesson_name: str, lesson_code: int, lesson_duration: int, lesson_appendices=None,students_list=None,):
+    def __init__(self,teacher, lesson_name: str, lesson_code: int, lesson_duration: int=45, lesson_appendices=None,students_list=None,):
         if lesson_appendices is None:
             self.lesson_appendices=[]
         else:
@@ -12,7 +12,7 @@ class Lesson:
             self.students_list=students_list
         self.lesson_name = lesson_name
         self.lesson_code = lesson_code
-        if lesson_duration<0:
+        if int(lesson_duration)<0:
             self.lesson_duration=0
         else:
             self.lesson_duration=lesson_duration
