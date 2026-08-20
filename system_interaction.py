@@ -23,12 +23,8 @@ def what_to_do(what_to_do: int):
         lesson_name=input("enter lesson name: ")
         lesson_code=input("enter lesson code: ")
         lesson_duration=input("enter lesson duration in minutes: ")
-        lesson_appendices=[]
-        appendix=" "
-        while appendix!="done":
-            appendix=input("enter the appendix (to stop adding appendices type done ):  ")
-            if appendix!="done":
-                lesson_appendices.append(appendix)
+        appendix = input("enter the appendixes, make space between each link for it to enter it properly:  ")
+        lesson_appendices = appendix.split(" ")
         students_list=[]
         teacher=create_teacher(teacher_name,teacher_password,lesson_code)
         create_lesson(teacher,lesson_name,lesson_code,lesson_duration,lesson_appendices,students_list)
